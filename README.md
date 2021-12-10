@@ -1,4 +1,4 @@
-# Pytorch Graph Attention Network
+# Pytorch Graph Attention Network using Kernel
 
 This is an implementation of the Graph Attention Network (GAT) based on spmm calculation in Kernel
 model presented by Veličković et. al (2017, https://arxiv.org/abs/1710.10903).
